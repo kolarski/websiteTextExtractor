@@ -1,0 +1,19 @@
+{
+  "name": "website_text_extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolarski/websiteTextExtractor.git"
+  },
+  "author": "Alex Kolarski <aleks.rk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolarski/websiteTextExtractor/issues"
+  },
+  "homepage": "https://github.com/kolarski/websiteTextExtractor#readme"
+}
