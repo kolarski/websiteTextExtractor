@@ -4,6 +4,7 @@
   "description": "",
   "main": "dist/app.js",
   "scripts": {
+    "dev": "tsc -w",
     "test": "npm test"
   },
   "repository": {
