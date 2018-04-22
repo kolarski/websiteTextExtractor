@@ -2,7 +2,7 @@
 
 The packet provides simple API to extract the text information from websites. 
 
-It contains to main modules:
+It contains two main modules:
 * Site crawer
 * Text extraction module
 
