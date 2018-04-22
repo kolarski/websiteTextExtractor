@@ -52,6 +52,7 @@ Available Scraper Options:
 * Switch to using Puppeteer
 * Option to scrape predefined list of URLs
 * Duplicated text analysis and removal (Menus and fixed texts on every page)
+* Respect robots.txt
 
 Note: Library is still WIP and not production ready.
 
